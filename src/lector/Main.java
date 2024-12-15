@@ -13,9 +13,7 @@ public class Main {
 	private static final Logger Log = Logger.getLogger(Main.class);
 
 	public static void main(String[] args) throws IOException {
-		
-		
-
+				
 		IconoMensajes Ico = new IconoMensajes();
 		Ico.generarIcono();
 		
